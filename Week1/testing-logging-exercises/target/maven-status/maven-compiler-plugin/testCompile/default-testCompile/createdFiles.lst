@@ -1,2 +1,5 @@
+com\cognizant\MyServiceTest.class
+com\cognizant\ExternalApi.class
 com\cognizant\CalculatorTest.class
 com\cognizant\AssertionsTest.class
+com\cognizant\MyService.class
